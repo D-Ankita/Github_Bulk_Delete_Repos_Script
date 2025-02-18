@@ -56,13 +56,11 @@ npm install
 3️⃣ Create a .env file (DO NOT SHARE THIS FILE)
 ```
 cp .env.example .env
-
 ```
 4️⃣ Edit .env file and replace with your credentials:
 ```
 GITHUB_USERNAME=your-github-username
 GITHUB_TOKEN=your-github-personal-access-token
-
 ```
 
 ## 🚀 Usage
@@ -105,12 +103,12 @@ To help you navigate, here's the project folder structure:
 
 ```
 📁 github-repo-cleaner  
- ├── 📄 github_delete_repos.js        # Main script file  
- ├── 📄 .env.example                  # Example .env file (DO NOT COMMIT actual .env)  
- ├── 📄 package.json                  # Dependencies & metadata  
- ├── 📄 package-lock.json             # Locks dependency versions  
- ├── 📄 README.md                     # Documentation  
- ├── 📄 .gitignore                    # To prevent sensitive files from being uploaded  
+ ├── github_delete_repos.js        # Main script file  
+ ├── .env.example                  # Example .env file (DO NOT COMMIT actual .env)  
+ ├── package.json                  # Dependencies & metadata  
+ ├── package-lock.json             # Locks dependency versions  
+ ├── README.md                     # Documentation  
+ ├── .gitignore                    # To prevent sensitive files from being uploaded  
 ```
 
 ---
