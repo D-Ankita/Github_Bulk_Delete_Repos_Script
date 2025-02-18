@@ -68,8 +68,7 @@ GITHUB_TOKEN=your-github-personal-access-token
 ## 🚀 Usage
 Run the script to **select and delete repositories**.
 ```
-node github_delete-repos.js
-
+node github_delete_repos.js
 ```
 
 
