@@ -116,7 +116,7 @@ To help you navigate, here's the project folder structure:
 
 ---
 
-## ⚠️ Disclaimer
+## ❗❗  Disclaimer  ❗❗
 This script **permanently deletes repositories**. **Use with caution!**  
 Make sure to **double-check your selections before confirming deletion**.  
 
